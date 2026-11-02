@@ -1,0 +1,1 @@
+Raw data should be downloaded from the NCI GDC using the notebook pipeline. Do not commit large raw count files; document source, query, sample selection and download date.
