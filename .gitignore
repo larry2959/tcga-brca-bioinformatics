@@ -1,0 +1,13 @@
+# Python / notebook
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+# Raw or large data; download reproducibly instead
+data/*
+!data/README.md
+# Local outputs (commit only curated final results)
+results/*
+!results/README.md
+.DS_Store
